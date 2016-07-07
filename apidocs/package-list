@@ -10,10 +10,11 @@ com.github.lwhite1.tablesaw.filtering.times
 com.github.lwhite1.tablesaw.index
 com.github.lwhite1.tablesaw.io
 com.github.lwhite1.tablesaw.io.csv
+com.github.lwhite1.tablesaw.io.html
 com.github.lwhite1.tablesaw.io.jdbc
 com.github.lwhite1.tablesaw.mapping
 com.github.lwhite1.tablesaw.plotting
-com.github.lwhite1.tablesaw.plotting.plots
+com.github.lwhite1.tablesaw.plotting.plotly
 com.github.lwhite1.tablesaw.reducing
 com.github.lwhite1.tablesaw.sorting
 com.github.lwhite1.tablesaw.splitting.dates
